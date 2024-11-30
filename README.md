@@ -1,4 +1,4 @@
-# E-Commerce-Shopping-Website
+# 🛒 E-Commerce-Shopping-Website
 
 ![image](https://github.com/user-attachments/assets/815eef1d-3ac0-4ba8-a1f9-38018b5d51f3)
 
